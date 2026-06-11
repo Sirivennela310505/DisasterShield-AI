@@ -70,6 +70,16 @@ Target Variable:
 * Government Alert System
 * Disaster Analytics Platform
 
+* ## Project Visualizations
+
+### Correlation Heatmap
+
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Feature Importance
+
+![Feature Importance](feature_importance.png)
+
 ## Author
 
 Siri Vennela
